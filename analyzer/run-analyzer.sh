@@ -1,7 +1,7 @@
 #!/bin/sh
 
 rm -rf analysis_result
-rm -rf statice_analysis
+rm -rf static_analysis
 
 mkdir static_analysis
 cd static_analysis
