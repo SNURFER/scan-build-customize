@@ -1,3 +1,0 @@
-/home/shido/scan-build-customize/analyzer/static_analysis/CMakeFiles/rebuild_cache.dir
-/home/shido/scan-build-customize/analyzer/static_analysis/CMakeFiles/main.dir
-/home/shido/scan-build-customize/analyzer/static_analysis/CMakeFiles/edit_cache.dir
